@@ -2,7 +2,7 @@
 Repository of HvRibbecK's Valorant Trainers. Compiled by 5R33CH4.
 
 ## Requirements
-**AHK** Must be Installed inorder the Trainer to Work.
+[**AHK**](https://autohotkey.com) Must be Installed inorder for the Trainer to Work.
 
 ## Credit
 **[HvRibbecK](https://github.com/HvRibbecK)**       - For Creating Base Trainer <br>
